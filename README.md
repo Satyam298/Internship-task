@@ -1,8 +1,7 @@
 # Prediction-of-Wine-Quality
 
-<img src="https://miro.medium.com/max/875/1*2ayKmvVZCYaLPl-nmLLp5g.png">
 
-For this project, I used Kaggle’s Red Wine Quality dataset to build various classification models to predict whether a particular red wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10. For the purpose of this project, I converted the output to a binary output where each wine is either “good quality” (a score of 7 or higher) or not (a score below 7). The quality of a wine is determined by 11 input variables:
+For this project, I used Kaggle’s Red Wine Quality dataset to build various classification models to predict whether a particular red wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10. I converted the output to a binary output where each wine is either “good quality” (a score of 7 or higher) or not (a score below 7). The quality of a wine is determined by 11 input variables:
 
     Fixed acidity
     Volatile acidity
@@ -39,6 +38,6 @@ Steps included in this project:
     
 
 
-<img src="http://media-cdn.tripadvisor.com/media/photo-s/10/28/86/6f/wine-cheers.jpg">
+<img src="https://cdn.pixabay.com/photo/2017/06/26/12/49/red-wine-2443699_640.jpg">
 
 
