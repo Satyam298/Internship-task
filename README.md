@@ -38,6 +38,6 @@ Steps included in this project:
     
 
 
-<img src="https://cdn.pixabay.com/photo/2017/06/26/12/49/red-wine-2443699_640.jpg">
+<img src="https://cdn.pixabay.com/photo/2022/12/26/19/57/sparkling-wine-7679665_1280.jpg">
 
 
