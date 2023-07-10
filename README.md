@@ -1,43 +1,18 @@
-# Prediction-of-Wine-Quality
+# IRIS-Flower-classification
 
+<img src="https://miro.medium.com/max/875/1*7bnLKsChXq94QjtAiRn40w.png">
 
-For this project, I used Kaggle’s Red Wine Quality dataset to build various classification models to predict whether a particular red wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10. I converted the output to a binary output where each wine is either “good quality” (a score of 7 or higher) or not (a score below 7). The quality of a wine is determined by 11 input variables:
+This Project is thorugh application of machine learning with python programming.
+It focuses on IRIS flower classification using Machine Learning with scikit tools. 
+Here some of algorithm are used that are some types of machine learning subparts algorithms of supervised and Unsupervised learning.
+Algorithm used for predicting and get accuracy are -
+1. Dicision tree classifier 
+2. K nearest classifier
+3. SVM
+4. Logistic Regression 
+5. metrics
+6. train_test_split
+We are making accuracy and prediction in Iris project through Iris Dataset.
+This is easy and understable for machine learning staters( Naive ).
 
-    Fixed acidity
-    Volatile acidity
-    Citric acid
-    Residual sugar
-    Chlorides
-    Free sulfur dioxide
-    Total sulfur dioxide
-    Density
-    pH
-    Sulfates
-    Alcohol
-
-Objectives
-
-The objectives of this project are as follows:
-
-    To experiment with different classification methods to see which yields the highest accuracy
-    To determine which features are the most indicative of a good quality wine
-
-Steps included in this project:
-
-    Importing Lib
-    Loading Data
-    Understanding Data
-    Missing Values
-    Exploring Variables(Data Anylasis)
-    Feature Selection
-    Proportion of Good vs Bad Wines
-    Preparing Data for Modelling
-    Applying different models
-    Choosing right model
-    Hurray you just completed the task !
-    
-
-
-<img src="https://cdn.pixabay.com/photo/2022/12/26/19/57/sparkling-wine-7679665_1280.jpg">
-
-
+PS: Please do not forget to drop a star if you like it!
